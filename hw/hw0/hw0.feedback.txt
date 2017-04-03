@@ -1,0 +1,27 @@
+78 points
+
+Chris,
+
+- Good job in creating your accounts!
+
+- Good job in setting up your java compiler in your system.
+
+- Good job with your first GitHub submission!
+
+However,
+
+- Although the assignment is in the specified folder, the repository in general
+  is not properly organized and is confusing.
+
+- Please organize your GitHub repository immediately.
+
+- A little header or cover page with your name, class, assignment, date, etc.
+  is always good to have in any assignment of this type.
+
+- You did not bring the assignment in printed version by the deadline.
+
+
+
+Peace,
+
+- Dr. Pablo Rivas
