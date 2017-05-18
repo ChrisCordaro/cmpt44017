@@ -1,0 +1,12 @@
+34 pts
+
+The project attempts to determine your mood.
+The idea has good merit. 
+
+However, there are some issues...
+Code:
+- It is not user friendly.  -1pt
+
+Overall:
+- The project is extremely easy. You can do a lot better than this. -5pts
+
